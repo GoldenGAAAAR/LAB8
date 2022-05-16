@@ -1,4 +1,4 @@
-// Copyright 2021 pvelp
+// Copyright 2022 Your Name <your_email>
 
 #ifndef INCLUDE_HEADER_HPP_
 #define INCLUDE_HEADER_HPP_
